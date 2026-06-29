@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-nvidia-ai-endpoints
+langchain-ollama
+chromadb
+openai
+websockets
+python-dotenv
+fastapi
+pandas
+langchain-chroma
